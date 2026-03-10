@@ -29,6 +29,7 @@ public class App {
                         break;
                     }else{
                         saldoAwal = saldoAwal - tarik;
+                        System.out.println("Saldo berhasil ditarik");
                     }
                     break;
                 case 4 :
